@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423182432181",
+    "firebase_url": "https://kitchenassistant-39cea.firebaseio.com",
+    "project_id": "kitchenassistant-39cea",
+    "storage_bucket": "kitchenassistant-39cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423182432181:android:af6a6810300f627f840bfc",
+        "android_client_info": {
+          "package_name": "com.example.kitchenassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423182432181-qb4ubdnssck2to489gfida8nti68moqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitchenassistant",
+            "certificate_hash": "b327fe7f3acb81dbe5c32677bf649add2bf1beda"
+          }
+        },
+        {
+          "client_id": "423182432181-oopgcm047iaj2tp4mvtsuosq074pcsn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHK93_pkKTgSuAMrsMQPPJYdMcB5Bk1h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423182432181-oopgcm047iaj2tp4mvtsuosq074pcsn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
