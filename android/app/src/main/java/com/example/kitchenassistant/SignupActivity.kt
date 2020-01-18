@@ -32,7 +32,8 @@ class SignupActivity : AppCompatActivity() {
 
         loginBtn = findViewById(R.id.login_btn)
         signUpBtn = findViewById(R.id.signup_btn)
-
+        
+        //User sign up
         signUpBtn.setOnClickListener {
             var email: String = emailEt.text.toString()
             var password: String = passwordEt.text.toString()
